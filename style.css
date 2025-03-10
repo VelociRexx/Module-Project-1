@@ -1,0 +1,26 @@
+img {
+  max-width: 100px;
+}
+body {
+  width: 600px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 25px;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+table {
+  border-collapse: collapse;
+  font-family: sans-serif;
+}
+th,
+td {
+  border: 1px solid grey;
+  padding: 8px;
+}
+th {
+  background-color: whitesmoke;
+}
+html {
+  background-image: url("img/chem-background.jpg");
+}
