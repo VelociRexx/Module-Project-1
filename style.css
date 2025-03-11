@@ -1,5 +1,6 @@
-img {
-  max-width: 100px;
+.whmis {
+  margin: 0;
+  max-width: 40px;
 }
 body {
   width: 600px;
@@ -12,6 +13,10 @@ body {
 table {
   border-collapse: collapse;
   font-family: sans-serif;
+  font-size: 12px;
+}
+th {
+  font-size: 18px;
 }
 th,
 td {
@@ -23,4 +28,18 @@ th {
 }
 html {
   background-image: url("img/chem-background.jpg");
+}
+h4,
+td {
+  margin: 0;
+}
+.tablep {
+  margin: 0;
+}
+input {
+  display: block;
+  margin: auto;
+}
+.atom {
+  max-width: 100px;
 }
