@@ -9,6 +9,7 @@ body {
   padding: 25px;
   margin-top: 15px;
   border-radius: 15px;
+  margin-bottom: 15px;
 }
 table {
   border-collapse: collapse;
@@ -36,10 +37,18 @@ td {
 .tablep {
   margin: 0;
 }
+/*
 input {
   display: block;
   margin: auto;
 }
+*/
 .atom {
   max-width: 100px;
+}
+input {
+  margin-top: 15px;
+}
+sub {
+  font-size: 12px;
 }
