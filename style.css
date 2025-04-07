@@ -34,6 +34,12 @@ h4,
 td {
   margin: 0;
 }
+#molelist {
+  margin: 20px;
+}
+#polyions {
+  padding-bottom: 10px;
+}
 .tablep {
   margin: 0;
 }
@@ -51,4 +57,21 @@ input {
 }
 sub {
   font-size: 12px;
+}
+/*   I should say that I like Times new roman, I know how to assign fonts, but I like roman as the basic, so thats why its unchanged */
+h1 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p,
+td,
+li {
+  color: #3b3b3b;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: darkblue;
+  text-decoration: underline;
 }
